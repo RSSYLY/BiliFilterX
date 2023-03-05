@@ -20,6 +20,10 @@
 - ~~CPU占用稍高~~
 - ~~稀烂的语法~~
 
+## 🖼️ 截图
+
+
+
 ## 🦽 使用
 
 该脚本依赖Tampermonkey浏览器插件。您需要确保您的设备的浏览器可以安装Tampermonkey浏览器插件。[知乎上的教程](https://zhuanlan.zhihu.com/p/128453110)
