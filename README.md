@@ -22,7 +22,7 @@
 
 ## 🖼️ 截图
 
-
+<img width="436" alt="image" src="https://user-images.githubusercontent.com/59304676/222944481-62a7c72e-dde9-4180-b402-87a42a2f69c7.png">
 
 ## 🦽 使用
 
